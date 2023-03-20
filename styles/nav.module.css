@@ -14,7 +14,10 @@
         -webkit-tap-highlight-color: transparent;
     }
 
-    .list a:active {
+    .list a:activ {
         color: var(--accent);
     }
 }
+    
+
+    

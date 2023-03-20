@@ -4,6 +4,6 @@
 }
 
 .flexContainer {
-    composes: sideBySideCenter from 'styles/utils.module.css';
-    gap: 2em;
+  composes: sibeBySideCenter from 'styles/utils.module.css'; 
+  gap: 2em;
 }

@@ -1,4 +1,0 @@
-.color {
-    composes: text from "./text.mosule.css";
-    color: lightpink;
-}

@@ -1,10 +1,13 @@
-import Container from '@/components/container'
-import Hero from '@/components/hero'
+import Hero from 'components/hero'
+import Container from 'components/container'
 
 export default function Blog() {
-    return (
-        <Container>
-            <Hero title="Blog" subtitle="Recent Possts" />
-        </Container>
-    )
+  return (
+    <Container>
+    <Hero 
+      title='blog'
+      subtitle='blogblogblog'
+    />
+    </Container>
+  )
 }
